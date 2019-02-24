@@ -1,6 +1,9 @@
 # sth
 Play as an Manager, Boss or even a player, text based soccer game
 
+to start game run main.py with python3
+
+
 Soccer Universalis is a free time project of me, When I finish the python version, I will work on java/android version.
 
 Play as a Boss:
